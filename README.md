@@ -1,6 +1,7 @@
 # DSMP_test
 ## Group Members
-Ray LIU
+Ray Liu
+
 Chengyu Min
 
 Xiaoran Yang
