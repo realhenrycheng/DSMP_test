@@ -9,6 +9,9 @@ Xiaoran Yang
 Weixuan Gu
 
 Haoran Cheng
+
+Che Dai
+
 ## Project Overview
 
   
